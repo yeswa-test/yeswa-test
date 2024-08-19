@@ -13,6 +13,4 @@
 
 #TechVisionary #DigitalDreamer #Codelearner
 
-### GitHub Stats
--  ![Yeswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeswa-test&show_icons=true&count_private=true&theme=radical)
 
