@@ -14,4 +14,5 @@
 #TechVisionary #DigitalDreamer #Codelearner
 
 ### GitHub Stats
-- GitHub Handle: [yeswa-test](https://github.com/yeswa-test)
+-  ![Yeswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeswa-test&show_icons=true&count_private=true&theme=radical)
+
