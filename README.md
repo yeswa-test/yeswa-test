@@ -7,7 +7,7 @@
    🗃️ MongoDB  🎨 Blender
 
 👀 Exploring the frontiers of:
-   🌐 AR/VR  🤖 AI  🌈 Creative Coding
+   🌐 AR/VR  🤖 AI   🌪 Creative Coding
 
 💡 Turning "What if?" into "Wow!"
 
