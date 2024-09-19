@@ -4,7 +4,7 @@
 
 🚀 Crafting wonders with:
    - 📱 Flutter  🖥️ Typescript 🍍Pinescript  🐍PythonNoteBook
-   - 💾 PostgresSql - Timescale DB 🗃️ MongoDB
+   - 💾 PostgreSql - Timescale DB 🗃️ MongoDB
    - 🎨 Blender  🎮 Unity  🌠 Unreal
 
 👀 Exploring the frontiers of:
