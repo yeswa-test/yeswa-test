@@ -3,8 +3,9 @@
 🔮 Reality Architect | Code Alchemist | Dream Engineer
 
 🚀 Crafting wonders with:
-   📱 Flutter  🎮 Unity  🌠 Unreal  🖥️ Node.js
-   🗃️ MongoDB  🎨 Blender
+   - 📱 Flutter  🖥️ Typescript 🍍Pinescript  🐍PythonNoteBook
+   - 💾 PostgresSql - Timescale DB 🗃️ MongoDB
+   - 🎨 Blender  🎮 Unity  🌠 Unreal
 
 👀 Exploring the frontiers of:
    🌐 AR/VR  🤖 AI   🌪 Creative Coding
