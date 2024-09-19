@@ -3,7 +3,7 @@
 🔮 Reality Architect | Code Alchemist | Dream Engineer
 
 🚀 Crafting wonders with:
-   - 📱 Flutter  🖥️ Typescript 🍍Pinescript  🐍PythonNoteBook
+   - 📱 Flutter  🖥️ Typescript 🍍Pinescript  🐍NoteBook
    - 💾 PostgreSql - Timescale DB 🗃️ MongoDB
    - 🎨 Blender  🎮 Unity  🌠 Unreal
 
