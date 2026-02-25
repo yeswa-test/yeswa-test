@@ -1,1 +1,2 @@
-## Design once, scale forever.
+
+*Between logic and imagination.*
